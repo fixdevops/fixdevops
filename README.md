@@ -1,6 +1,6 @@
-![Header](img/git-header.png)
+![fixdevops](img/git-header.png)
 ##### Hi a'im Fikri asyam mahasiswa teknik informatika unugiri.
-Saya memiliki ketertarikan yang besar didalam bidang teknologi khususnya keamanan siber.Saya percaya bahwa teknologi dapat menjadi solusi untuk berbagia masalah   👋
+###Saya memiliki ketertarikan yang besar didalam bidang teknologi khususnya keamanan siber.Saya percaya bahwa teknologi dapat menjadi solusi untuk berbagia masalah   👋
 
 <!--
 **fixdevops/fixdevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
