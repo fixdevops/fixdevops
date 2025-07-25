@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm fikri asyam mahasiswa teknik informaika</h2>
+<h2 align="left">Hi 👋! My name is M. Fikri Asyam Jauhary, and I am a student from Indonesia.a</h2>
 
 ###
 
