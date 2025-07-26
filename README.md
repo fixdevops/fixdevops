@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is M. Fikri Asyam Jauhary, and I am a student from Indonesia.a</h2>
+<h2 align="left">Hi 👋! My name is M. Fikri Asyam Jauhary, and I am a student from Indonesia</h2>
 
 ###
 
@@ -15,19 +15,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <h2>About ME</h2>
+  <p> I am Fikri, a passionate and creative student. I have a deep interest in programming, which motivates me to keep learning and growing. With an educational background at Universitas Bina Insani, I believe that self-development is the key to achieving goals, and I am always looking for opportunities to sharpen my skills and knowledge.
+
+I believe that every day is an opportunity to learn something new and create valuable moments. In my life, I strive to be a dedicated and persistent individual. I hope to contribute positively to the world around me and continue to grow as a person.</p>
 </div>
 
 ###
