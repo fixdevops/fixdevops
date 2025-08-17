@@ -10,13 +10,12 @@
 
 ###
 
-<img align="right"  height="160"  src="https://media.giphy.com/media/Cfiid6I8YDKqrCxAaY/giphy.gif?cid=ecf05e47qvru4r598vbhnqb8cu4v8xfay97o1utfxxtgya30&ep=v1_gifs_related&rid=giphy.gif&ct=g" bottom="300" />
 
 ###
 
 <div align="left">
   <h2>About Me</h2>
-  <p> I am Fikri, a passionate and creative student. I have a deep interest in programming, which motivates me to keep learning and growing. With an educational background at Universitas Bina Insani, I believe that self-development is the key to achieving goals, and I am always looking for opportunities to sharpen my skills and knowledge.
+  <p> I am Fikri, a passionate and creative student. I have a deep interest in programming, which motivates me to keep learning and growing. With an educational background at Universitas Nahdlatul Ulama Sunan Giri, I believe that self-development is the key to achieving goals, and I am always looking for opportunities to sharpen my skills and knowledge.
 
 I believe that every day is an opportunity to learn something new and create valuable moments. In my life, I strive to be a dedicated and persistent individual. I hope to contribute positively to the world around me and continue to grow as a person.</p>
 </div>
