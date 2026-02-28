@@ -59,7 +59,3 @@ Saya adalah mahasiswa di **Universitas Nahdlatul Ulama Sunan Giri** yang memilik
 <p align="center">
   <img src="https://raw.githubusercontent.com/fixdevops/fixdevops/output/snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fixdevops&layout=compact&theme=dracula&hide_border=false" width="350" alt="Top Languages" />
-</p>
