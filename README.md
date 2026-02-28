@@ -11,8 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fixdevops&show_icons=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats" />
-
+  <img src="https://streak-stats.demolab.com?user=fixdevops&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
 
 ---
